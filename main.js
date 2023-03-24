@@ -8,7 +8,7 @@ if(b<3)
 {
 	document.write("HeyIts Fall");
 }
-else if (b<=c1 && b<7)
+else if (b>=3 && b<7)
 {
 	document.write(" HeyIts Summer");
 }
